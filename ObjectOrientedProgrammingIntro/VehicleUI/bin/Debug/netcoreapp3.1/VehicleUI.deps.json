@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VehicleUI/1.0.0": {
+        "dependencies": {
+          "VehicleLibrary": "1.0.0",
+          "VehicleLibraryExtended": "1.0.0"
+        },
+        "runtime": {
+          "VehicleUI.dll": {}
+        }
+      },
+      "VehicleLibrary/1.0.0": {
+        "runtime": {
+          "VehicleLibrary.dll": {}
+        }
+      },
+      "VehicleLibraryExtended/1.0.0": {
+        "runtime": {
+          "VehicleLibraryExtended.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleLibraryExtended/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

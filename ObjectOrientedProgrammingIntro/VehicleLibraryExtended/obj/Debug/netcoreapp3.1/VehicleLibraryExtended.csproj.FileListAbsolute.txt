@@ -1,0 +1,9 @@
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\bin\Debug\netcoreapp3.1\VehicleLibraryExtended.deps.json
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\bin\Debug\netcoreapp3.1\VehicleLibraryExtended.dll
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\bin\Debug\netcoreapp3.1\VehicleLibraryExtended.pdb
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.csproj.AssemblyReference.cache
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.AssemblyInfoInputs.cache
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.AssemblyInfo.cs
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.csproj.CoreCompileInputs.cache
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.dll
+C:\Users\eveli\Documents\evelin-nuget-local\ObjectOrientedProgrammingIntro\VehicleLibraryExtended\obj\Debug\netcoreapp3.1\VehicleLibraryExtended.pdb
