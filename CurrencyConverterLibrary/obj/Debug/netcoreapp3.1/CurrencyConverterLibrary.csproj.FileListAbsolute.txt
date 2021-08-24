@@ -1,0 +1,9 @@
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\bin\Debug\netcoreapp3.1\CurrencyConverterLibrary.deps.json
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\bin\Debug\netcoreapp3.1\CurrencyConverterLibrary.dll
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\bin\Debug\netcoreapp3.1\CurrencyConverterLibrary.pdb
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.csproj.AssemblyReference.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.AssemblyInfoInputs.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.AssemblyInfo.cs
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.csproj.CoreCompileInputs.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.dll
+C:\EventsAndDelegates\EventsAndDelegatesIntro\CurrencyConverterLibrary\obj\Debug\netcoreapp3.1\CurrencyConverterLibrary.pdb
