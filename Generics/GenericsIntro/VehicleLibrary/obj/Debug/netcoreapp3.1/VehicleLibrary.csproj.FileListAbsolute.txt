@@ -1,0 +1,9 @@
+C:\Generics\GenericsIntro\VehicleLibrary\bin\Debug\netcoreapp3.1\VehicleLibrary.deps.json
+C:\Generics\GenericsIntro\VehicleLibrary\bin\Debug\netcoreapp3.1\VehicleLibrary.dll
+C:\Generics\GenericsIntro\VehicleLibrary\bin\Debug\netcoreapp3.1\VehicleLibrary.pdb
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.csproj.AssemblyReference.cache
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.AssemblyInfoInputs.cache
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.AssemblyInfo.cs
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.dll
+C:\Generics\GenericsIntro\VehicleLibrary\obj\Debug\netcoreapp3.1\VehicleLibrary.pdb
