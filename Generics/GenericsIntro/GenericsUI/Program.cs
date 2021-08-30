@@ -1,40 +1,40 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using VehicleLibrary;
 
 //  Задача
 //  Напишете програма, която приема 10 числа. Четните ги сложете в стек (stack), а нечетните в опашка (queue).
-//  Изпринтирайте числата от стека и опашката като ги изваждате от тях.​​
+//  Изпринтирайте числата от стека и опашката като ги изваждате от тях.
 //
-//  Задачи за домашно:​
-//  1 Направете програма, която : ​
-//  -Да пълни числата от 1 до 100 в списък.  ​
-//  След това обходете списъка и изтриите всички числа, които завършват на 0 (10, 20, 30 и т.н.).​
-//  ​
-//  2.Напишете си клас Car и му задайте да има следните свойства: Brand, Model, RegisterNumber и SeatsNumber.​
-//  Направете си няколко инстанции от коли и ги добавете в списък от Коли. ​
-//  Обходете списъка и принтирайте подробна информация за колите.​​
+//  Задачи за домашно:
+//  1 Направете програма, която : 
+//  -Да пълни числата от 1 до 100 в списък.  
+//  След това обходете списъка и изтриите всички числа, които завършват на 0 (10, 20, 30 и т.н.).
+//  
+//  2.Напишете си клас Car и му задайте да има следните свойства: Brand, Model, RegisterNumber и SeatsNumber.
+//  Направете си няколко инстанции от коли и ги добавете в списък от Коли. 
+//  Обходете списъка и принтирайте подробна информация за колите.
 //
-//  3. Напишете си клас Bike и му задайте да има следните свойства: Brand, Model и Color.​
-//  Създайте някоклко инстанции пак от класа Bike и ги добавете в свързания списък LinkedList.​
-//  Обходете го и принтирайте подробна информация за колите.​
+//  3. Напишете си клас Bike и му задайте да има следните свойства: Brand, Model и Color.
+//  Създайте някоклко инстанции пак от класа Bike и ги добавете в свързания списък LinkedList.
+//  Обходете го и принтирайте подробна информация за колите.
 //
-//  4. Напишете програма , която да пълни в някаква структура числата от 1 до 50.​
-//  След това като използвате струткурата отпечатете числата в обратен ред. Коя структура бихте избрали в случая.​
+//  4. Напишете програма , която да пълни в някаква структура числата от 1 до 50.
+//  След това като използвате струткурата отпечатете числата в обратен ред. Коя структура бихте избрали в случая.
 //
-//  Ако се сетите за няколко варианта за решение ги напишете всичките.​​
+//  Ако се сетите за няколко варианта за решение ги напишете всичките.
 //
-//  5. Създайте си структурата опашка и я напълнете с числата от 1 до 10.​
+//  5. Създайте си структурата опашка и я напълнете с числата от 1 до 10.
 //  След това обходете опашката и изтрийте елементите, докато текущия елемент не стане равен на числото 5.
-//  Когато стане 5 принтирайте, че това е което търсите и спрете обхождането.​
+//  Когато стане 5 принтирайте, че това е което търсите и спрете обхождането.
 //
-//  6. Напишете програма, която обръща думите в едно изречение на обратно. Използвайте стек. ​
-//  Пример: I am from planet Earth ​
-//  Решение: Earth planet from am I ​
+//  6. Напишете програма, която обръща думите в едно изречение на обратно. Използвайте стек. 
+//  Пример: I am from planet Earth 
+//  Решение: Earth planet from am I 
 //
-//  7. Напишете програма, която маха определени думи (по-къси от 3 символа) от изречение Използвайте опашка. ​
-//  Пример: My spaceship is ready for travelling to Mars ​
-//  Решение: spaceship ready travelling Mars​​​
+//  7. Напишете програма, която маха определени думи (по-къси от 3 символа) от изречение Използвайте опашка. 
+//  Пример: My spaceship is ready for travelling to Mars 
+//  Решение: spaceship ready travelling Mars
 
 namespace GenericsUI
 {
@@ -71,15 +71,15 @@ namespace GenericsUI
             Console.WriteLine();
 
             List<Car> listOfCars = new List<Car>();
-            listOfCars.Add(new Car { Brand = "Chevrolet", Model = "Camaro", RegisterNumber = "1234", SeastsNumber = 4 });
-            listOfCars.Add(new Car { Brand = "Volvo", Model = "S90 Recharge", RegisterNumber = "0550", SeastsNumber = 4 });
-            listOfCars.Add(new Car { Brand = "Tesla", Model = "Model 3", RegisterNumber = "9876", SeastsNumber = 4 });
-            listOfCars.Add(new Car { Brand = "Bugatti", Model = "Chiron", RegisterNumber = "0660", SeastsNumber = 2 });
-            listOfCars.Add(new Car { Brand = "Rolls-Royce", Model = "Ghost", RegisterNumber = "5665", SeastsNumber = 4 });
+            listOfCars.Add(new Car { Brand = "Chevrolet", Model = "Camaro", RegisterNumber = "1234", SeatsNumber = 4 });
+            listOfCars.Add(new Car { Brand = "Volvo", Model = "S90 Recharge", RegisterNumber = "0550", SeatsNumber = 4 });
+            listOfCars.Add(new Car { Brand = "Tesla", Model = "Model 3", RegisterNumber = "9876", SeatsNumber = 4 });
+            listOfCars.Add(new Car { Brand = "Bugatti", Model = "Chiron", RegisterNumber = "0660", SeatsNumber = 2 });
+            listOfCars.Add(new Car { Brand = "Rolls-Royce", Model = "Ghost", RegisterNumber = "5665", SeatsNumber = 4 });
 
             foreach (var car in listOfCars)
             {
-                Console.WriteLine($"{ car.Brand } { car.Model } { car.RegisterNumber } { car.SeastsNumber }");
+                Console.WriteLine($"{ car.Brand } { car.Model } { car.RegisterNumber } { car.SeatsNumber }");
             }
 
             Console.WriteLine();
@@ -156,5 +156,7 @@ namespace GenericsUI
             //Console.WriteLine("Dequeue : " + oddValues.Dequeue());
             //Console.WriteLine("Dequeue : " + oddValues.Dequeue());
         }
+        
+        //TODO Tasks - 4, 5, 6, 7
     }
 }
