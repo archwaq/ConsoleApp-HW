@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using VehicleLibrary;
+using System.Linq;
 
 //  Задача
 //  Напишете програма, която приема 10 числа. Четните ги сложете в стек (stack), а нечетните в опашка (queue).
@@ -92,6 +93,97 @@ namespace GenericsUI
             {
                 Console.WriteLine($"{ bike.Brand } { bike.Model } { bike.Color }");
             }
+            
+            Console.WriteLine();
+
+            Stack<int> stackOfNumbers = new Stack<int>();
+
+            for (int i = 1; i <= 50; i++)
+            {
+                stackOfNumbers.Push(i);
+            }
+
+            foreach (var number in stackOfNumbers)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine();
+
+            Queue<int> numberInQueue = new Queue<int>();
+
+            for (int i = 1; i <= 10; i++)
+            {
+                numberInQueue.Enqueue(i);
+            }
+
+            for (int i = 0; i <= numberInQueue.Count; i++)
+            {
+
+                while (i != 5)
+                {
+                    numberInQueue.Dequeue();
+                    i++;
+                }
+                
+                Console.WriteLine(i);
+                break;
+            }
+
+            Console.WriteLine();
+            //var numbersLeft = numberInQueue.Count;
+            //Console.WriteLine(numbersLeft);
+
+            //foreach (var number in numberInQueue)
+            //{
+            //    Console.WriteLine(number);
+            //}
+            //Console.WriteLine();
+
+            Stack<string> stackOfStrings = new Stack<string>();
+
+            string myStr = "I am from planet Earth";
+
+            string[] myStrArray = myStr.Split(' ');
+
+            for (int i = 0; i < myStrArray.Length; i++)
+            {
+                stackOfStrings.Push(myStrArray[i]);
+            }
+
+            while (stackOfStrings.Count != 0)
+            {
+                Console.Write(stackOfStrings.Peek() + " ");
+                stackOfStrings.Pop();
+            }
+
+            Console.WriteLine("\n");
+
+            Queue<string> queueOfStrings = new Queue<string>();
+
+
+            string myStr_ = "My spaceship is ready for travelling to Mars";
+
+            string[] myStrArray_ = myStr_.Split(' ');
+
+            for (int i = 0; i < myStrArray_.Length; i++)
+            {
+                queueOfStrings.Enqueue(myStrArray_[i]);
+            }
+
+            int index = 0;
+
+            while (queueOfStrings.Count != 0)
+            {
+                if (queueOfStrings.ElementAt(index).ToString().Length > 3)
+                {
+                    Console.Write(queueOfStrings.ElementAt(index) + " ");
+                }
+
+                queueOfStrings.Dequeue();
+            }
+
+            Console.WriteLine("\n");
 
         }
 
@@ -157,6 +249,5 @@ namespace GenericsUI
             //Console.WriteLine("Dequeue : " + oddValues.Dequeue());
         }
         
-        //TODO Tasks - 4, 5, 6, 7
     }
 }
