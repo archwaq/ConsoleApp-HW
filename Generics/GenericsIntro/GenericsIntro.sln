@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsUI", "GenericsUI\GenericsUI.csproj", "{F2ED99CF-1D29-4950-92CD-2E6EC26A2DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleLibrary", "VehicleLibrary\VehicleLibrary.csproj", "{E67A3286-0238-494B-A881-B94D5ACB20BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2ED99CF-1D29-4950-92CD-2E6EC26A2DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2ED99CF-1D29-4950-92CD-2E6EC26A2DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2ED99CF-1D29-4950-92CD-2E6EC26A2DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2ED99CF-1D29-4950-92CD-2E6EC26A2DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67A3286-0238-494B-A881-B94D5ACB20BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67A3286-0238-494B-A881-B94D5ACB20BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67A3286-0238-494B-A881-B94D5ACB20BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67A3286-0238-494B-A881-B94D5ACB20BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C865AF-EA7E-4B91-8B80-BDC6DADEDD41}
+	EndGlobalSection
+EndGlobal
