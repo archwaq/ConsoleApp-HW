@@ -1,0 +1,9 @@
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\bin\Debug\netcoreapp3.1\AviationLibrary.deps.json
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\bin\Debug\netcoreapp3.1\AviationLibrary.dll
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\bin\Debug\netcoreapp3.1\AviationLibrary.pdb
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.csproj.AssemblyReference.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.AssemblyInfoInputs.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.AssemblyInfo.cs
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.csproj.CoreCompileInputs.cache
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.dll
+C:\EventsAndDelegates\EventsAndDelegatesIntro\AviationLibrary\obj\Debug\netcoreapp3.1\AviationLibrary.pdb
