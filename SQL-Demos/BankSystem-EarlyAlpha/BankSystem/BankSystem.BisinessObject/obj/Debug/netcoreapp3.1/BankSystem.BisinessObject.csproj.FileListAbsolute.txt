@@ -1,0 +1,9 @@
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\bin\Debug\netcoreapp3.1\BankSystem.BisinessObject.deps.json
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\bin\Debug\netcoreapp3.1\BankSystem.BisinessObject.dll
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\bin\Debug\netcoreapp3.1\BankSystem.BisinessObject.pdb
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.csproj.AssemblyReference.cache
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.AssemblyInfoInputs.cache
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.AssemblyInfo.cs
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.csproj.CoreCompileInputs.cache
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.dll
+C:\SQL-Demos\BankSystem-EarlyAlpha\BankSystem\BankSystem.BisinessObject\obj\Debug\netcoreapp3.1\BankSystem.BisinessObject.pdb
