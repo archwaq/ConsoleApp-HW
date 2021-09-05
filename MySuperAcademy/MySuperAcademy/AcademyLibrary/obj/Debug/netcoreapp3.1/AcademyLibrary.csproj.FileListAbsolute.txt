@@ -1,0 +1,9 @@
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\bin\Debug\netcoreapp3.1\AcademyLibrary.deps.json
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\bin\Debug\netcoreapp3.1\AcademyLibrary.dll
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\bin\Debug\netcoreapp3.1\AcademyLibrary.pdb
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.csproj.AssemblyReference.cache
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.AssemblyInfoInputs.cache
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.AssemblyInfo.cs
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.csproj.CoreCompileInputs.cache
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.dll
+C:\MySuperAcademy\MySuperAcademy\AcademyLibrary\obj\Debug\netcoreapp3.1\AcademyLibrary.pdb
