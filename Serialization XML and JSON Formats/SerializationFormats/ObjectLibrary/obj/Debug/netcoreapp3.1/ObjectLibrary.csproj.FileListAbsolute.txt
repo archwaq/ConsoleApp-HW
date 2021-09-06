@@ -1,0 +1,9 @@
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\bin\Debug\netcoreapp3.1\ObjectLibrary.deps.json
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\bin\Debug\netcoreapp3.1\ObjectLibrary.dll
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\bin\Debug\netcoreapp3.1\ObjectLibrary.pdb
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.csproj.AssemblyReference.cache
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.AssemblyInfoInputs.cache
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.AssemblyInfo.cs
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.csproj.CoreCompileInputs.cache
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.dll
+C:\Serialization XML and JSON Formats\SerializationFormats\ObjectLibrary\obj\Debug\netcoreapp3.1\ObjectLibrary.pdb

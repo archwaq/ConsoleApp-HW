@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "fullName": "Gautier Jacquier",
+      "Age": "21",
+      "Gender": "male",
+      "briefDescription": "Recognizes errors",
+      "Evaluation": "5"
+    },
+    {
+      "fullName": "Henry Choquet",
+      "Age": "24",
+      "Gender": "male",
+      "briefDescription": "Needs visual cues",
+      "Evaluation": "4"
+    },
+    {
+      "fullName": "Adrien Portier",
+      "Age": "19",
+      "Gender": "male",
+      "briefDescription": "Well-mannered",
+      "Evaluation": "5"
+    },
+    {
+      "fullName": "Zacharie Bocuse",
+      "Age": "23",
+      "Gender": "male",
+      "briefDescription": "Understandable speech",
+      "Evaluation": "2"
+    },
+    {
+      "fullName": "Jean-François Mignard",
+      "Age": "20",
+      "Gender": "male",
+      "briefDescription": "Variable motivation level",
+      "Evaluation": "5"
+    },
+    {
+      "fullName": "Claude Gérald",
+      "Age": "19",
+      "Gender": "male",
+      "briefDescription": "Alert",
+      "Evaluation": "3"
+    },
+    {
+      "fullName": "Emmeline Pinchon",
+      "Age": "25",
+      "Gender": "female",
+      "briefDescription": "Follows multi-step directions",
+      "Evaluation": "5"
+    },
+    {
+      "fullName": "Julienne Vasseur",
+      "Age": "21",
+      "Gender": "female",
+      "briefDescription": "Accepts mistakes",
+      "Evaluation": "4"
+    },
+    {
+      "fullName": "Honorine Ballesdens",
+      "Age": "19",
+      "Gender": "female",
+      "briefDescription": "Asks for help",
+      "Evaluation": "3"
+    },
+    {
+      "fullName": "Francine Loupe",
+      "Age": "19",
+      "Gender": "female",
+      "briefDescription": "Actively involved in learning",
+      "Evaluation": "5"
+    }
+  ]
+}

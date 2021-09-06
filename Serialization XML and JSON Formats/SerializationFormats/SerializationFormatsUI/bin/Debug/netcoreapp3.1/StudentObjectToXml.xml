@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FullName>Julienne Vasseur</FullName>
+  <Age>21</Age>
+  <Gender>Female</Gender>
+  <BriefDescription>Accepts mistakes</BriefDescription>
+  <Evaluation>4</Evaluation>
+</Student>

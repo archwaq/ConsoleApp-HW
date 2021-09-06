@@ -1,0 +1,41 @@
+<students>
+	<student>
+	<fullName>Gautier Jacquier</fullName> <Age>21</Age> <Gender>male</Gender> <briefDescription>Recognizes errors</briefDescription> <Evaluation>5</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Henry Choquet</fullName> <Age>24</Age> <Gender>male</Gender> <briefDescription>Needs visual cues</briefDescription> <Evaluation>4</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Jean-François Mignard</fullName> <Age>20</Age> <Gender>male</Gender> <briefDescription>Variable motivation level</briefDescription> <Evaluation>5</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Adrien Portier</fullName> <Age>19</Age> <Gender>male</Gender> <briefDescription>Well-mannered</briefDescription> <Evaluation>5</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Zacharie Bocuse</fullName> <Age>23</Age> <Gender>male</Gender> <briefDescription>Understandable speech</briefDescription> <Evaluation>2</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Claude Gérald</fullName> <Age>19</Age> <Gender>male</Gender> <briefDescription>Alert</briefDescription> <Evaluation>3</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Emmeline Pinchon</fullName> <Age>25</Age> <Gender>female</Gender> <briefDescription>Follows multi-step directions</briefDescription> <Evaluation>5</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Julienne Vasseur</fullName> <Age>21</Age> <Gender>female</Gender> <briefDescription>Accepts mistakes</briefDescription> <Evaluation>4</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Honorine Ballesdens</fullName> <Age>19</Age> <Gender>female</Gender> <briefDescription>Asks for help</briefDescription> <Evaluation>3</Evaluation>
+	</student> 
+
+	<student>
+	<fullName>Francine Loupe</fullName> <Age>19</Age> <Gender>female</Gender> <briefDescription>Actively involved in learning</briefDescription> <Evaluation>5</Evaluation>
+	</student> 
+</students>
