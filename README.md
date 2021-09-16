@@ -21,6 +21,12 @@ Academy material I've been through and remade to a fresh date.
  
 Prerequisites:
 
+ - Beginner level of C#
  - Local installation of [Visual Studio] (https://visualstudio.microsoft.com/downloads/)
 
- 
+Instructions (for those unfamiliar with Git)
+
+First of all to download the files just click on Code (watch example). You'll have 2 options download a zipper or use [GitHub Desktop] (https://desktop.github.com/)
+(if you want to keep the folder updated: (https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch))
+
+![Image!](Screenshot_ConsoleAppRepo.jpg)
